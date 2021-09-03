@@ -1,5 +1,4 @@
 import numpy as np
-import pandas
 
 """
 1. Write a NumPy program to create a 3x4 matrix filled with values from 10 to 21.
