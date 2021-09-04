@@ -24,6 +24,10 @@ if 0 in arr2:
 else:
     print("There are NO 0's in the array")
 
+# OR
+
+print(np.all(arr2))
+
 """
 3. Write a NumPy program to create an array with the values 1, 7, 13, 105 and determine the size of the memory occupied
 by the array. 
